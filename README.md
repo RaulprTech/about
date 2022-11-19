@@ -1,4 +1,4 @@
-# raulpacheco.me
+# raulpacheco.me/about
 
 A minimal landing page for your Social Networks and other shared links.
 
